@@ -1,16 +1,7 @@
-# cardslotgames
 
-A new Flutter project.
+![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/user-attachments/assets/28bcf963-7524-4831-a903-21b78df90e3b)
 
-## Getting Started
+# Football Community App 
 
-This project is a starting point for a Flutter application.
+Football Community is a free iOS app designed for football fans. It provides easy access to the most up-to-date information about football leagues, teams and players. It also offers football news and stunning photos from matches. Thanks to its user-friendly structure, it does not require any registration process; thus, it provides fast and effortless use. Fubi does not collect, share or use user data. Prioritizing privacy and security, Fubi is the ideal platform for football fans. Download now for the best football experience!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
